@@ -11,10 +11,6 @@
 Use the requirements file in this repo to create a new environment.
 
 ```BASH
-make setup
-
-#or
-
 pyenv local 3.9.8
 python -m venv .venv
 source .venv/bin/activate
