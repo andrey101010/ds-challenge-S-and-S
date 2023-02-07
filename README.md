@@ -1,6 +1,6 @@
 # ds-challenge-S-and-S
 
-Crop Yield Prediction: This project uses various data sources such as weather patterns, temperature, and previous crop yields to predict future crop yields. Advanced statistical and machine learning models are employed to make accurate predictions.
+**Crop Yield Prediction:** This project uses various data sources such as weather patterns, temperature, and previous crop yields to predict future crop yields. Advanced statistical and machine learning models are employed to make accurate predictions.
 
 **Weld Defect Detection:** This project is a scope of computer vision and uses image processing techniques to detect defects in welds. It involves capturing images of welds, analyzing them using computer vision algorithms, and identifying any defects present. This can help improve the quality of the final product and prevent costly failures.
 
