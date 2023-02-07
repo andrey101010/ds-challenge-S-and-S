@@ -4,11 +4,11 @@ This repo consists of three different projects. Find the link below.
 
 
 Colab link for the weld defect detection:
-[![Open In Colab] (https://colab.research.google.com/github/andrey101010/ds-challenge-S-and-S/blob/main/Kopie_von_S_and_S_Weld_Defect_Detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrey101010/ds-challenge-S-and-S/blob/main/Kopie_von_S_and_S_Weld_Defect_Detection.ipynb)
 
 
 Colab link for the crop yield:
-[![Open In Colab] (https://colab.research.google.com/github/andrey101010/ds-challenge-S-and-S/blob/main/S_and_S_Crop_yield.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrey101010/ds-challenge-S-and-S/blob/main/S_and_S_Crop_yield.ipynb)
 
 
 ## Requirements:
