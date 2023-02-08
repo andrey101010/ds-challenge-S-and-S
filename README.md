@@ -9,7 +9,7 @@
 **Crop Yield Prediction:**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrey101010/ds-challenge-S-and-S/blob/main/S_and_S_Crop_yield.ipynb)
 
-**Weld defect detection:**
+**Weld Defect Detection:**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrey101010/ds-challenge-S-and-S/blob/main/Kopie_von_S_and_S_Weld_Defect_Detection.ipynb)
 
 **Point Cloud Ground Segmentation:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrey101010/ds-challenge-S-and-S/blob/main/S_and_S_lidar_challenge.ipynb)
