@@ -15,11 +15,7 @@
 **Point Cloud Ground Segmentation:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrey101010/ds-challenge-S-and-S/blob/main/S_and_S_lidar_challenge.ipynb)
 
 
-## Requirements:
-
-- pyenv with Python: 3.9.4
-
-### Setup
+## Requirements and Setup
 
 Use the requirements file in this repo to create a new environment.
 
